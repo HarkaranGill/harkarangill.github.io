@@ -7,5 +7,8 @@
 Check out our [Live Demo](https://harkarangill.github.io/blockly/blockly/accessibleblockly/interface.html)
 
 **Instructions:**
-WASD to navigate without the mouse
+- WASD to navigate without the mouse
+- Enter to select
+- Tab to go back
+- more instructions coming once I find the documentation >_<
 
